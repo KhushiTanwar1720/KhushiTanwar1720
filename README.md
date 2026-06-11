@@ -62,12 +62,8 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=react,next,html,css,js,ts,nodejs,express)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres,azure,aws)](https://skillicons.dev)
-
-[![My Tools](https://skillicons.dev/icons?i=vscode,git,github,postman,npm,linux,figma)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,c)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,git,github,linux)](https://skillicons.dev)
 
 </div>
 
@@ -100,7 +96,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
-## 📌 Featured Projects
+<!-- ## 📌 Featured Projects
 
 > _(Replace with your real project links.)_
 
@@ -110,7 +106,7 @@
 | 🔗 **Research-Information-Management-System** | Brief one-liner about what it does | HTML, CSS, JS | [Repo](#) |
 | 🔗 **Project Gamma** | Brief one-liner about what it does | C++, DSA | [Repo](#) |
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/> -->
 
 ## 📫 Let's Connect
 
