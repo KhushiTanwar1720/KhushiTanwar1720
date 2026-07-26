@@ -62,7 +62,20 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,vscode,git,github,linux" />
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js" />
+
+<br><br>
+
+### 🌱 Currently Learning
+<img src="https://skillicons.dev/icons?i=java,react" />
+
+<br><br>
+
+### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
