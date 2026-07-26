@@ -47,15 +47,15 @@
 
 ## 🧑‍💻 About Me
 
-> _"I don't just follow tutorials — I build real things, break them, and figure out why."_
+> *"I don't just follow tutorials—I build projects, experiment, make mistakes, and learn by solving real problems."*
 
-- 🎓 Pursuing **B.Tech in Computer Science** at **BIT, Meerut**
-- 🎨 **Frontend-focused** developer — I turn ideas into clean, responsive, and accessible UIs
-- ⚡ Building with **React**, **Tailwind CSS**, **JavaScript**, and **Java** as my go-to stack
-- 🗄️ Comfortable connecting frontends to data with **MongoDB** & **MySQL**
-- ☁️ Familiar with **Git workflows**, **Linux**, and deploying on **Azure**
-- 🚀 Currently exploring: **full-stack patterns**, **system design fundamentals**, and **open source contribution**
-- 🤝 Open to: **internships**, **collaborative projects**, and **hackathons**
+- 🎓 Pursuing **B.Tech in Computer Science** at **Bharat Institute of Technology, Meerut**
+- 💻 Aspiring **Full Stack Developer** passionate about building modern, responsive, and user-friendly web applications
+- 🌱 Currently learning **JavaScript, React, Java**, and strengthening my programming fundamentals with **Python**
+- 🚀 Building projects to gain hands-on experience in **Frontend Development**, while gradually exploring the **Backend** and databases
+- 🛠️ Familiar with **HTML, CSS, JavaScript, Python, Git, GitHub,** and **VS Code**
+- 📚 Continuously improving my **problem-solving**, **DSA**, and **software development** skills
+- 🤝 Open to **internships, hackathons, open-source contributions,** and collaborative projects
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
