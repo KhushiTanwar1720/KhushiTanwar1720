@@ -74,7 +74,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=KhushiTanwar1720&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8"/>
+      <img width="100%" src="https://stats-github-readme.vercel.app/api?username=KhushiTanwar1720&show_icons=true&theme=tokyonight"/>
     </td>
     <td width="50%" align="center">
       <img width="100%" src="https://streak-stats.demolab.com?user=KhushiTanwar1720&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=f472b6&currStreakLabel=818cf8">
@@ -82,7 +82,7 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiTanwar1720&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8"/>
+      <img width="100%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=KhushiTanwar1720&layout=compact&theme=tokyonight""/>
     </td>
     <td width="50%" align="center">
       <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KhushiTanwar1720&theme=tokyo-night&bg_color=0d1117&color=818cf8&line=6366f1&point=a5b4fc&hide_border=true"/>
