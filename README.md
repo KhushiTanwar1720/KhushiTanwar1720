@@ -21,7 +21,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.hackerrank.com/profile/puneetd2005">
+      <a href="https://www.hackerrank.com/profile/kr3218072">
         <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="40" height="40"/>
       </a>
     </td>
