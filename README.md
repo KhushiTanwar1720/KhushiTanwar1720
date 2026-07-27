@@ -65,11 +65,9 @@
 
 ### 💻 Languages
 <img src="https://skillicons.dev/icons?i=python,c,html,css,js" />
-<br><br>
 
 ### 🌱 Currently Learning
 <img src="https://skillicons.dev/icons?i=java,react" />
-<br><br>
 
 ### 🛠️ Tools
 <img src="https://skillicons.dev/icons?i=vscode,git,github" />
