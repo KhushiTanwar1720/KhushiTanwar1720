@@ -27,7 +27,7 @@
     </td>
     <td align="center">
      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kr3218072@gmail.com" target="_blank">
-       <img src="gmail-icon.png">
+       <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
      </a>
     </td>
     <td align="center">
