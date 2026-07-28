@@ -26,7 +26,7 @@
       </a>
     </td>
     <td align="center">
-     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yourgmail@gmail.com" target="_blank">
+     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kr3218072@gmail.com" target="_blank">
        <img src="gmail-icon.png">
      </a>
     </td>
