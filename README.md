@@ -86,7 +86,7 @@
       <img width="100%" src="https://stats-github-readme.vercel.app/api?username=KhushiTanwar1720&show_icons=true&theme=tokyonight"/>
     </td>
     <td width="50%" align="center">
-      <img width="100%" src="https://streak-stats.demolab.com?user=KhushiTanwar1720&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=f472b6&currStreakLabel=818cf8">
+    <img src="https://streak-stats.demolab.com?user=Krajput2027784&theme=tokyonight&hide_border=true">
     </td>
   </tr>
   <tr>
