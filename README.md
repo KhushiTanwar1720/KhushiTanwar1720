@@ -26,9 +26,9 @@
       </a>
     </td>
     <td align="center">
-     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kr3218072@gmail.com" target="_blank">
-       <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/>
-     </a>
+    <a href="mailto:KhushiTanwar1720.kr3218072@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/>
+      </a>
     </td>
     <td align="center">
       <a href="https://your-website.com">
