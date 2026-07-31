@@ -6,7 +6,7 @@
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=818CF8&center=true&vCenter=true&random=false&width=600&lines=Python+Enthusiast;Learning+by+Building;Exploring+AI+%26+Development." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=818CF8&center=true&vCenter=true&random=false&width=600&lines=Python+Enthusiast;Full Stack Developer;Learning+by+Building;Exploring+AI+%26+Development." alt="Typing SVG" />
 
 </a>
 
@@ -91,7 +91,7 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=KhushiTanwar1720&layout=compact&theme=tokyonight""/>
+      <img width="100%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=KhushiTanwar1720&layout=compact&theme=tokyonight"/>
     </td>
     <td width="50%" align="center">
       <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KhushiTanwar1720&theme=tokyo-night&bg_color=0d1117&color=818cf8&line=6366f1&point=a5b4fc&hide_border=true"/>
