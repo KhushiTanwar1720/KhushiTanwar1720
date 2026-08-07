@@ -64,7 +64,7 @@
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js" />
+<img src="https://skillicons.dev/icons?i=python,c,html,css,tailwind,js" />
 
 ### 🌱 Currently Learning
 <img src="https://skillicons.dev/icons?i=java,react" />
